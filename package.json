@@ -1,0 +1,24 @@
+{
+  "name": "rnd-str-msg-srp",
+  "version": "1.0.0",
+  "description": "random string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sromerop01/rnd-str-msg-srp.git"
+  },
+  "keywords": [],
+  "author": "Santiago Romero <sromerop2001@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sromerop01/rnd-str-msg-srp/issues"
+  },
+  "homepage": "https://github.com/sromerop01/rnd-str-msg-srp#readme",
+  "bin":{
+    "rnd-str-msg":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
